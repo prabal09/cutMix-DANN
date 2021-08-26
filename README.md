@@ -7,4 +7,5 @@ Combining CutMix with traditional DANN to improve upon the target dataset accura
 
 References - 
 1. Yun, Sangdoo et al. “CutMix: Regularization Strategy to Train Strong Classifiers With Localizable Features.” 2019 IEEE/CVF International Conference on Computer Vision (ICCV) (2019): 6022-6031.
-2. 
+2. Y. Ganin, E. Ustinova, H. Ajakan, P. Germain, H. Larochelle, F. Laviolette, M. Marchand, and V. Lempitsky, “Domain-adversarial training of
+neural networks,” J. Mach. Learn. Res., vol. 17, pp. 59:1–59:35, 2016
