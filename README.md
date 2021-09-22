@@ -5,7 +5,8 @@ DANN uses gradient reversal to align the source and the target distribution glob
 cutMix combines two images by retaining features of the source image and the target image in a random ratio.
 
 # cutMix-DANN
-Combining CutMix with traditional DANN to improve upon the target dataset accuracy for a domain adaptation task. The encoder is jointly trained on the source and cutMix data
+Combining CutMix with traditional DANN to improve upon the target dataset accuracy for a domain adaptation task. The encoder is jointly trained on the source and cutMix data.
+This means weights are updated when model is trained on either of the two sets
 
 ![image](https://user-images.githubusercontent.com/32479901/129860759-68c047a9-b703-43d7-8cea-980ba78001ab.png)
 
