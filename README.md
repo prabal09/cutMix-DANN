@@ -1,5 +1,5 @@
 # DANN
-DANN uses gradient reversal to align the source and the target distribution globally, that are obtained from the deep features of the Convolutional Network
+DANN uses gradient reversal to align the source and the target distribution globally, that are obtained from the deep features of the Convolutional Neural Network (encoder)
 
 # cutMix
 cutMix combines two images by retaining features of the source image and the target image in a random ratio.
